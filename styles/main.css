@@ -1,0 +1,86 @@
+@import "heart_animation.css";
+@import "pulse_heart.css";
+
+body {
+	background-color: black;
+	transition-duration: 1s;
+	overflow: hidden;
+}
+
+#autor {
+	font-size: 16px;
+}
+
+marquee {
+	color:	#8B0000;
+	margin-top: 10%;
+	z-index: 1000;
+	font-size: 500px;
+	visibility: hidden;
+	position: absolute;
+}
+
+h2 {
+	font-family: monospace;
+	font-size: 200%;
+	text-align: center;
+	color: #d9534f;
+	transition-duration: 1s;
+}
+
+h5 {
+	font-size: 120%;
+	color: #d9534f;
+	transition-duration: 1s;
+}
+
+#centro {
+	background-color: white;
+	margin-top: 12%;
+	border-color: transparent;
+	padding: 40px 50px;
+	border-radius: 3px;
+	margin-left: 28%;
+	margin-right: 30%;
+	z-index: 1000;
+}
+
+button {
+	font-family: monospace;
+	font-size: 130%;
+	width: 40%;
+	display: block;
+	margin-left: 30%;
+	transition-duration: 1s;
+	/* filter: saturate(70%); */
+}
+
+.imgFace {
+	border-radius: 8px;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-bottom: 25px;
+	max-width: 70px;
+	max-height: 70px;
+	width: auto;
+	height: auto;
+}
+
+.imgButton {
+	max-width: 70px;
+	max-height: 70px;
+	width: 30px;
+	height: 30px;
+}
+
+.imagens {
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.botao {
+	width: 50px;
+	height: 50px;
+}
+
+audio { display:none; }
