@@ -16,7 +16,7 @@ var frases = [
     "tamanho": "17pt"
   },
   {
-    "frase": "Uma vez por semana faz as empresas de energia terem o maio lucro de todos",
+    "frase": "Uma vez por semana faz as empresas de energia terem o maior lucro de todos",
     "autor": "Verídico isso",
     "tamanho": "17pt"
   },
