@@ -82,7 +82,7 @@ var frases = [
   },
   {
     "frase": "Preciso de luz para acordar, um bom café para descontrair e seu amor para me alegrar logo pela manhã",
-    "autor": "FELIZ DIA DOS NAMORAS!!",
+    "autor": "FELIZ DIA DOS NAMORADOS!!",
     "tamanho": "17pt"
   }
 ];
